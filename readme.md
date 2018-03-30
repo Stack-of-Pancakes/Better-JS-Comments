@@ -9,3 +9,9 @@ Then I had to add a readme because gists limit the size of a file's description.
 1. From the "Preferences" menu choose "Browse Packages..."
 2. In that folder create a new folder named "Default"
 3. In the "Default" folder save this file as "comment.py"
+
+### Examples
+
+![hedgehog](./New folder/New folder/New folder/New folder/New folder/New folder (2)/New folder/New folder/New folder/New folder/badger.gif)
+
+![badger](./New folder/New folder/New folder/New folder/New folder (2)/New folder/New folder/New folder/New folder/hedgehog.gif)
