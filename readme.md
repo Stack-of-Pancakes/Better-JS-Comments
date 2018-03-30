@@ -12,6 +12,6 @@ Then I had to add a readme because gists limit the size of a file's description.
 
 ### Examples
 
-![hedgehog](New folder/New folder/New folder/New folder/New folder/New folder (2)/New folder/New folder/New folder/New folder/badger.gif)
+![hedgehog](New%20folder/New%20folder/New%20folder/New%20folder/New%20folder/New%20folder%20(2)/New%20folder/New%20folder/New%20folder/New%20folder/badger.gif)
 
 ![badger](New folder/New folder/New folder/New folder/New folder (2)/New folder/New folder/New folder/New folder/hedgehog.gif)
