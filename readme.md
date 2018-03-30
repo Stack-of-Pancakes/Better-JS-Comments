@@ -6,6 +6,6 @@ Then I had to add a readme because gists limit the size of a file's description.
 
 ### Installing
 
-From the "Preferences" menu choose "Browse Packages..."
-In that folder create a new folder named "Default"
-In the "Default" folder save this file as "comment.py"
+1. From the "Preferences" menu choose "Browse Packages..."
+2. In that folder create a new folder named "Default"
+3. In the "Default" folder save this file as "comment.py"
