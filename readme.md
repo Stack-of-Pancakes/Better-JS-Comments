@@ -13,6 +13,7 @@ Then I had to add a readme because gists limit the size of a file's description.
 ### Examples
 
 <img src="New%20folder/New%20folder/New%20folder/New%20folder/New%20folder/New%20folder%20(2)/New%20folder/New%20folder/New%20folder/New%20folder/badger.gif" width="100%">
+
 ![hedgehog](New%20folder/New%20folder/New%20folder/New%20folder/New%20folder/New%20folder%20(2)/New%20folder/New%20folder/New%20folder/New%20folder/badger.gif)
 
 ![badger](New%20folder/New%20folder/New%20folder/New%20folder/New%20folder%20(2)/New%20folder/New%20folder/New%20folder/New%20folder/hedgehog.gif)
